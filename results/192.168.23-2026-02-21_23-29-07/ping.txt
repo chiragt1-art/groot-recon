@@ -1,0 +1,5 @@
+PING 192.168.23 (192.168.0.23) 56(84) bytes of data.
+
+--- 192.168.23 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2035ms
+

@@ -1,0 +1,9 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-02-23 10:40 -0500
+Nmap scan report for google.com (142.250.192.238)
+Host is up (0.0034s latency).
+Other addresses for google.com (not scanned): 2404:6800:4002:829::200e
+rDNS record for 142.250.192.238: tzdela-ax-in-f14.1e100.net
+All 100 scanned ports on google.com (142.250.192.238) are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap done: 1 IP address (1 host up) scanned in 2.09 seconds

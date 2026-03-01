@@ -1,0 +1,12 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-02-23 10:11 -0500
+Nmap scan report for ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+Host is up (0.016s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Microsoft Xbox game console (modified, running XboxMediaCenter) (92%), Ember InSight Adapter for programming EM2XX-family embedded devices (88%), NetApp FAS2000 NAS device (88%), Sapling IP clock (88%), HP PSC 2400-series Photosmart printer (87%), Actiontec MI424WR-GEN3I WAP (87%), DD-WRT v24-sp2 (Linux 2.4.37) (87%), Wyse ThinOS 6 (86%), Brother MFC-7820N printer (86%), HP OpenVMS 8.4 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 62.68 seconds

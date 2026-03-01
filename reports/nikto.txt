@@ -1,0 +1,15 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Multiple IPs found: 142.250.207.206, 2404:6800:4009:825::200e
++ Target IP:          142.250.207.206
++ Target Hostname:    youtube.com
++ Target Port:        80
++ Start Time:         2026-02-24 01:32:51 (GMT-5)
+---------------------------------------------------------------------------
++ Server: ESF
++ Root page / redirects to: https://youtube.com/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ : Server banner changed from 'ESF' to 'sffe'.
++ /: Uncommon header 'reporting-endpoints' found, with contents: default="//www.google.com/httpservice/retry/jserror?ei=NkadacGXBuHN1sQPw9UO&cad=crash&error=Page%20Crash&jsel=1&bver=2383&dpf=5rIpvW3NCB5Z-kJ-2UaD6SrO2nj5gN9I6rkmCTEUg_Q".
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /: Cookie __Secure-STRP created without the httponly flag. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies

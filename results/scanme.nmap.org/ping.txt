@@ -1,0 +1,8 @@
+PING scanme.nmap.org (45.33.32.156) 56(84) bytes of data.
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=1 ttl=128 time=382 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=2 ttl=128 time=343 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=3 ttl=128 time=304 ms
+
+--- scanme.nmap.org ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 303.991/343.077/382.399/32.010 ms
