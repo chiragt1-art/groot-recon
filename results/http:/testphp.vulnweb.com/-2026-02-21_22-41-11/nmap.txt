@@ -1,2 +1,0 @@
-Starting Nmap 7.98 ( https://nmap.org ) at 2026-02-21 22:42 -0500
-Nmap done: 0 IP addresses (0 hosts up) scanned in 0.30 seconds
