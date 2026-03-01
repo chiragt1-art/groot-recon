@@ -25,12 +25,3 @@ ROCKET
 Only use on authorized targets!
 ```
 
-Click **Commit changes** ✅
-
----
-
-**Your tool is 100% ready on GitHub! 🚀🌱🔥**
-
-Share your link:
-```
-https://github.com/chiragt1-art/groot-recon
